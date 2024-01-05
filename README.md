@@ -48,7 +48,5 @@ This project aims to enhance your programming skills by implementing a function 
   - You should be able to read from different file descriptors without losing the reading thread of each or returning a line from another fd.
   - Files for bonus: `get_next_line_bonus.c`, `get_next_line_bonus.h`, `get_next_line_utils_bonus.c`
 
-*Note: Bonus part assessed only if the mandatory part is perfect.*
-
 ## V. Submission and Peer-Evaluation
 Turn in your assignment in your Git repository. Only the work inside your repository will be evaluated during the defense. Double-check file names for correctness. When writing tests, consider varying buffer and line sizes, and remember that a file descriptor does not only point to regular files. Cross-check with your peers and prepare a diverse set of tests for defense.
