@@ -52,4 +52,3 @@ This project aims to enhance your programming skills by implementing a function 
 
 ## V. Submission and Peer-Evaluation
 Turn in your assignment in your Git repository. Only the work inside your repository will be evaluated during the defense. Double-check file names for correctness. When writing tests, consider varying buffer and line sizes, and remember that a file descriptor does not only point to regular files. Cross-check with your peers and prepare a diverse set of tests for defense.
-# get_next_line
